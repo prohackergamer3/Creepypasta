@@ -1,2 +1,1 @@
-# Creepypasta
-Creepypasta-offical
+Bu proje jumpscare içerir
